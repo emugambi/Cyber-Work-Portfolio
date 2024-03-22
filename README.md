@@ -5,6 +5,7 @@ CYBERSECURITY MACHINE LEARNING PORTFOLIO
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Introduction
+
 The bulk of the work I did as a cyber security data scientist involved developing machine learning-based detections for a plethora of  use cases.  I worked in various cybersecurity firms - Devo [https://www.devo.com/], a cloud-based SIEM product that has been used globally since 2014, Fortinet -  a firewall and networking global company in business since 1992 and Symantec - a world-renowned anti-virus company that was acquired by Broadcom.
 AI/Machine Learning is needed in cyber security for various reasons:
 (1) desist from relying on static rule-base detections which are known to be weak, degrade over time, can be easily deceived by hackers and, are known to lead to lots of false alarms.
