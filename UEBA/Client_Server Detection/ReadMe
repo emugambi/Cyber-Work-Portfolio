@@ -1,3 +1,4 @@
 One of the main features used to detect clients and server devices in a network is the producer-to-consumer ratio (PCR)
 this link has a good description of PCR:
 https://detect-respond.blogspot.com/2016/09/detecting-data-staging-exfil-using-PCR-shift.html
+https://qosient.com/argus/presentations/Argus.FloCon.2014.PCR.Presentation.pdf
